@@ -1,2 +1,2 @@
 # Web-Security
-Assignments for web security
+Assignments for Web Security
